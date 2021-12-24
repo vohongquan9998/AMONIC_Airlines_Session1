@@ -1,0 +1,15 @@
+C:\Users\ADMIN\source\repos\Session1_2\Session1_2\obj\Debug\Session1_2.Form1.resources
+C:\Users\ADMIN\source\repos\Session1_2\Session1_2\obj\Debug\Session1_2.view.FormAdmin.resources
+C:\Users\ADMIN\source\repos\Session1_2\Session1_2\obj\Debug\Session1_2.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\Session1_2\Session1_2\obj\Debug\Session1_2.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\Session1_2\Session1_2\obj\Debug\Session1_2.view.FormAddUser.resources
+C:\Users\ADMIN\source\repos\Session1_2\Session1_2\obj\Debug\Session1_2.csprojAssemblyReference.cache
+C:\Users\ADMIN\source\repos\Session1_2\Session1_2\obj\Debug\Session1_2.view.ChangeRole.resources
+C:\Users\ADMIN\source\repos\Session1_2\Session1_2\obj\Debug\Session1_2.view.FormDetected.resources
+C:\Users\ADMIN\source\repos\Session1_2\Session1_2\obj\Debug\Session1_2.view.FormUser.resources
+C:\Users\ADMIN\source\repos\Session1_2\Session1_2\obj\Debug\Session1_AMONIC_Airlines.Properties.Resources.resources
+C:\Users\ADMIN\source\repos\Session1_2\Session1_2\bin\Debug\Session1_AMONIC_Airlines.exe.config
+C:\Users\ADMIN\source\repos\Session1_2\Session1_2\bin\Debug\Session1_AMONIC_Airlines.exe
+C:\Users\ADMIN\source\repos\Session1_2\Session1_2\bin\Debug\Session1_AMONIC_Airlines.pdb
+C:\Users\ADMIN\source\repos\Session1_2\Session1_2\obj\Debug\Session1_AMONIC_Airlines.exe
+C:\Users\ADMIN\source\repos\Session1_2\Session1_2\obj\Debug\Session1_AMONIC_Airlines.pdb
